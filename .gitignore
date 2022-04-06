@@ -1,3 +1,11 @@
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+ 
+## User settings
+xcuserdata/
+
 # Prerequisites
 *.d
 
