@@ -20,7 +20,7 @@ int main(int argc, const char * argv[]){
     
     /* build the box */
     if(mk_rpp(wdbp, box_name, lo, hi)){
-        bu_log("Failed to make a sphere (%s)\n", box_name);
+        bu_log("Failed to make a box (%s)\n", box_name);
         exit(1);
     }
     
